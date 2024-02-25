@@ -1,6 +1,6 @@
 # SQL Project: Music Application Database
 
-This project represents a database schema for a music application, including tables for users, songs, albums, artists, playlists, and relationships between them. The project was written in SQLite.
+This project represents a database schema for a music application, including tables for users, songs, albums, artists, playlists, and relationships between them.
 
 ## Schema Description
 
